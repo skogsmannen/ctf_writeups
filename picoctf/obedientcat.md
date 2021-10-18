@@ -10,7 +10,7 @@ _This file has a flag in plain sight (aka "in-the-clear")._
 
 1. Download the associated file (flag).
 2. Navigate to its download location within the terminal.
-3. Check file using command *file flag*. 
+3. Check file using command **file flag**. 
 
 _Output Returned: flag: ASCII text_
 
